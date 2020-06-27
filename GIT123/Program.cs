@@ -6,7 +6,7 @@ namespace GIT123
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Master");
+            Console.WriteLine("product");
         }
     }
 }
